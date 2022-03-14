@@ -1,6 +1,7 @@
 # ruby-army-domain-model
 
 ## Enunciado - Ejercicio de Webinar POO
+*Disclaimer: Este enunciado fue sacado de un Webinar realizado por un youtuber hispano-hablante, lo resolví para practicar Ruby (ya que lo utilicé durante una cursada de 4 meses en la universidad). 
 
 ### Ejercicio: Guerra de ejércitos
 
